@@ -1,5 +1,4 @@
 const http = require("https");
-const { options } = require("../route/route");
 
 const app_id = "bfaa1c11";
 const app_key = "c66c6386698bcd9b6f5c90e32f119914"; 
